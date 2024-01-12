@@ -11,4 +11,4 @@ def sum_width():
 print(list([1]*(len(width))))
 for n in range(1,len(width)):
     print(width)
-    sum_width()
+    sum_width() 
